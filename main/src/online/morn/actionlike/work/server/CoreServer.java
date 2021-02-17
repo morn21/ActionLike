@@ -91,7 +91,6 @@ public class CoreServer {
 	
 	/**
 	 * 继续运行
-	 * @param httpPro
 	 * @return
 	 */
 	public boolean continueRun(){
